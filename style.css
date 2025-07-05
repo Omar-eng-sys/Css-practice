@@ -1,0 +1,40 @@
+
+body{
+    background: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-family: "Hacen Samra";
+    margin-bottom: 0%;
+}
+
+h2{
+    font-family: "(A) Arslan Wessam A";
+    font-size: 30px;
+    margin: 0%;
+}
+
+p{
+    font-family: "Simplified Arabic";
+    font-size: 20px;
+    margin-top: 0%;
+}
+.text-color{
+    color: aliceblue;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    border:  solid rgb(255, 255, 255);
+    align-self: center;
+    box-shadow: 0 0 60px 20px rgb(255, 255, 255 ,0.3);
+}
+
+div{
+    width: 450px;
+    align-self: center;
+}
